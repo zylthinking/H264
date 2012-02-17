@@ -1,0 +1,21 @@
+EXPORTS
+	avcodec_init
+	avcodec_register_all
+	avcodec_find_decoder
+	avcodec_open
+	avcodec_alloc_context
+	avcodec_alloc_frame
+	avcodec_decode_video2
+	avcodec_close
+	avcodec_align_dimensions2
+	avcodec_check_dimensions
+	
+	av_free
+	av_init_packet 
+	ff_fill_linesize
+	ff_fill_pointer
+
+  
+  
+
+ 
